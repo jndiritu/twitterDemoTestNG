@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNGTest" duration-ms="40406" started-at="2018-10-18T20:29:43Z" finished-at="2018-10-18T20:30:24Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="40406" started-at="2018-10-18T20:29:43Z" finished-at="2018-10-18T20:30:24Z">
+      <class name="TestNGTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:TestNGTest@7c30a502]" name="setUpClass" is-config="true" duration-ms="27" started-at="2018-10-18T23:29:43Z" finished-at="2018-10-18T23:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:TestNGTest@7c30a502]" name="setUpMethod" is-config="true" duration-ms="5734" started-at="2018-10-18T23:29:43Z" finished-at="2018-10-18T23:29:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="logInOptionWithOutCheckBox()[pri:0, instance:TestNGTest@7c30a502]" name="logInOptionWithOutCheckBox" duration-ms="32972" started-at="2018-10-18T23:29:49Z" finished-at="2018-10-18T23:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInOptionWithOutCheckBox -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:TestNGTest@7c30a502]" name="tearDownMethod" is-config="true" duration-ms="1637" started-at="2018-10-18T23:30:22Z" finished-at="2018-10-18T23:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:TestNGTest@7c30a502]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2018-10-18T23:30:24Z" finished-at="2018-10-18T23:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- TestNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestNGTest -->
+</testng-results>
